@@ -24,8 +24,4 @@ public class Calc {
     public double pow(double a , double b) {
         return Math.pow(a, b);
     }
-
-    public double log(double a , double b) {
-        return Math.log(a) / Math.log(b);
-    }
 }
